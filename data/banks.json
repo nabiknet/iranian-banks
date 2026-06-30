@@ -1,112 +1,75 @@
 [
   {
+    "id": "bankMelliIran",
     "bank_name_en": "Bank Melli Iran",
     "bank_name_fa": "بانک ملی ایران",
-    "logo_color_svg": "logos/color/melli.svg",
-    "logo_color_png": "logos/color/melli.png",
-    "logo_mono_svg": "logos/mono/melli.svg",
-    "logo_mono_png": "logos/mono/melli.png",
     "BINs": [
       "603799"
     ]
   },
   {
+    "id": "bankSepah",
     "bank_name_en": "Bank Sepah",
     "bank_name_fa": "بانک سپه",
-    "logo_color_svg": "logos/color/sepah.svg",
-    "logo_color_png": "logos/color/sepah.png",
-    "logo_mono_svg": "logos/mono/sepah.svg",
-    "logo_mono_png": "logos/mono/sepah.png",
     "BINs": [
       "589210"
     ]
   },
   {
+    "id": "bankSaderatIran",
     "bank_name_en": "Bank Saderat Iran",
     "bank_name_fa": "بانک صادرات ایران",
-    "logo_color_svg": "logos/color/saderat.svg",
-    "logo_color_png": "logos/color/saderat.png",
-    "logo_mono_svg": "logos/mono/saderat.svg",
-    "logo_mono_png": "logos/mono/saderat.png",
     "BINs": [
       "603769"
     ]
   },
   {
+    "id": "bankToseeSaderat",
     "bank_name_en": "Bank Tosee saderat",
     "bank_name_fa": "بانک توسعه صادرات ایران",
-    "logo_color_svg": "logos/color/Toseesaderat.svg",
-    "logo_color_png": "logos/color/Toseesaderat.png",
-    "logo_mono_svg": "logos/mono/Toseesaderat.svg",
-    "logo_mono_png": "logos/mono/Toseesaderat.png",
     "BINs": [
-      "627648"
+      "627648",
+      "207177"
     ]
   },
   {
+    "id": "bankShahr",
     "bank_name_en": "Bank Shahr",
     "bank_name_fa": "بانک شهر",
-    "logo_color_svg": "logos/color/shahr.svg",
-    "logo_color_png": "logos/color/shahr.png",
-    "logo_mono_svg": "logos/mono/shahr.svg",
-    "logo_mono_png": "logos/mono/shahr.png",
     "BINs": [
       "502806",
       "504706"
     ]
   },
   {
+    "id": "bankSanatMadan",
     "bank_name_en": "Bank Sanat Madan",
     "bank_name_fa": "بانک صنعت و معدن",
-    "logo_color_svg": "logos/color/sanatmadan.svg",
-    "logo_color_png": "logos/color/sanatmadan.png",
-    "logo_mono_svg": "logos/mono/sanatmadan.svg",
-    "logo_mono_png": "logos/mono/sanatmadan.png",
     "BINs": [
       "627961"
     ]
   },
   {
+    "id": "bankToseeTaavon",
     "bank_name_en": "Bank Tosee Taavon",
     "bank_name_fa": "بانک توسعه تعاون",
-    "logo_color_svg": "logos/color/Toseetaavon.svg",
-    "logo_color_png": "logos/color/Toseetaavon.png",
-    "logo_mono_svg": "logos/mono/Toseetaavon.svg",
-    "logo_mono_png": "logos/mono/Toseetaavon.png",
     "BINs": [
       "502908"
     ]
   },
   {
-    "bank_name_en": "Bank Tosee saderat",
-    "bank_name_fa": "بانک توسعه صادرات",
-    "logo_color_svg": "logos/color/Toseesaderat.svg",
-    "logo_color_png": "logos/color/Toseesaderat.png",
-    "logo_mono_svg": "logos/mono/Toseesaderat.svg",
-    "logo_mono_png": "logos/mono/Toseesaderat.png",
-    "BINs": [
-      "207177"
-    ]
-  },
-  {
+    "id": "bankPasargad",
     "bank_name_en": "Bank Pasargad",
     "bank_name_fa": "بانک پاسارگاد",
-    "logo_color_svg": "logos/color/pasargad.svg",
-    "logo_color_png": "logos/color/pasargad.png",
-    "logo_mono_svg": "logos/mono/pasargad.svg",
-    "logo_mono_png": "logos/mono/pasargad.png",
     "BINs": [
       "502229",
       "639347"
     ]
   },
   {
+    "id": "bankParsian",
     "bank_name_en": "Bank Parsian",
     "bank_name_fa": "بانک پارسیان",
-    "logo_color_svg": "logos/color/parsian.svg",
-    "logo_color_png": "logos/color/parsian.png",
-    "logo_mono_svg": "logos/mono/parsian.svg",
-    "logo_mono_png": "logos/mono/parsian.png",
     "BINs": [
       "622106",
       "627884",
@@ -114,336 +77,246 @@
     ]
   },
   {
+    "id": "bankEghtesadNovin",
     "bank_name_en": "Bank Eghtesad Novin",
     "bank_name_fa": "بانک اقتصاد نوین",
-    "logo_color_svg": "logos/color/eghtesadnovin.svg",
-    "logo_color_png": "logos/color/eghtesadnovin.png",
-    "logo_mono_svg": "logos/mono/eghtesadnovin.svg",
-    "logo_mono_png": "logos/mono/eghtesadnovin.png",
     "BINs": [
       "627412"
     ]
   },
   {
-    "bank_name_en": "Ansar Bank",
+    "id": "bankAnsar",
+    "bank_name_en": "Bank Ansar",
     "bank_name_fa": "بانک انصار",
-    "logo_color_svg": "logos/color/ansar.svg",
-    "logo_color_png": "logos/color/ansar.png",
-    "logo_mono_svg": "logos/mono/ansar.svg",
-    "logo_mono_png": "logos/mono/ansar.png",
     "BINs": [
       "627381"
     ]
   },
   {
+    "id": "bankHekmatIranian",
     "bank_name_en": "Bank Hekmat Iranian",
     "bank_name_fa": "بانک حکمت ایرانیان (سپه)",
-    "logo_color_svg": "logos/color/hekmat.svg",
-    "logo_color_png": "logos/color/hekmat.png",
-    "logo_mono_svg": "logos/mono/hekmat.svg",
-    "logo_mono_png": "logos/mono/hekmat.png",
     "BINs": [
       "636949"
     ]
   },
   {
+    "id": "bankAyandeh",
     "bank_name_en": "Bank Ayandeh",
     "bank_name_fa": "بانک آینده",
-    "logo_color_svg": "logos/color/ayandeh.svg",
-    "logo_color_png": "logos/color/ayandeh.png",
-    "logo_mono_svg": "logos/mono/ayandeh.svg",
-    "logo_mono_png": "logos/mono/ayandeh.png",
     "BINs": [
       "636214"
     ]
   },
   {
+    "id": "bankGhavamin",
     "bank_name_en": "Bank Ghavamin",
     "bank_name_fa": "بانک قوامین (سپه)",
-    "logo_color_svg": "logos/color/ghavamin.svg",
-    "logo_color_png": "logos/color/ghavamin.png",
-    "logo_mono_svg": "logos/mono/ghavamin.svg",
-    "logo_mono_png": "logos/mono/ghavamin.png",
     "BINs": [
       "639599"
     ]
   },
   {
+    "id": "bankKarafarin",
     "bank_name_en": "Bank Karafarin",
     "bank_name_fa": "بانک کارآفرین",
-    "logo_color_svg": "logos/color/karafarin.svg",
-    "logo_color_png": "logos/color/karafarin.png",
-    "logo_mono_svg": "logos/mono/karafarin.svg",
-    "logo_mono_png": "logos/mono/karafarin.png",
     "BINs": [
       "627488",
       "502910"
     ]
   },
   {
+    "id": "bankDey",
     "bank_name_en": "Bank Dey",
     "bank_name_fa": "بانک دی",
-    "logo_color_svg": "logos/color/dey.svg",
-    "logo_color_png": "logos/color/dey.png",
-    "logo_mono_svg": "logos/mono/dey.svg",
-    "logo_mono_png": "logos/mono/dey.png",
     "BINs": [
       "502938"
     ]
   },
   {
+    "id": "bankRefahKargaran",
     "bank_name_en": "Bank Refah Kargaran",
     "bank_name_fa": "بانک رفاه کارگران",
-    "logo_color_svg": "logos/color/refah.svg",
-    "logo_color_png": "logos/color/refah.png",
-    "logo_mono_svg": "logos/mono/refah.svg",
-    "logo_mono_png": "logos/mono/refah.png",
     "BINs": [
       "589463"
     ]
   },
   {
+    "id": "bankSaman",
     "bank_name_en": "Bank Saman",
     "bank_name_fa": "بانک سامان",
-    "logo_color_svg": "logos/color/saman.svg",
-    "logo_color_png": "logos/color/saman.png",
-    "logo_mono_svg": "logos/mono/saman.svg",
-    "logo_mono_png": "logos/mono/saman.png",
     "BINs": [
       "621986"
     ]
   },
   {
+    "id": "bankSina",
     "bank_name_en": "Bank Sina",
     "bank_name_fa": "بانک سینا",
-    "logo_color_svg": "logos/color/sina.svg",
-    "logo_color_png": "logos/color/sina.png",
-    "logo_mono_svg": "logos/mono/sina.svg",
-    "logo_mono_png": "logos/mono/sina.png",
     "BINs": [
       "639346"
     ]
   },
   {
+    "id": "bankSarmayeh",
     "bank_name_en": "Bank Sarmayeh",
     "bank_name_fa": "بانک سرمایه",
-    "logo_color_svg": "logos/color/sarmayeh.svg",
-    "logo_color_png": "logos/color/sarmayeh.png",
-    "logo_mono_svg": "logos/mono/sarmayeh.svg",
-    "logo_mono_png": "logos/mono/sarmayeh.png",
     "BINs": [
       "639607"
     ]
   },
   {
+    "id": "bankTejarat",
     "bank_name_en": "Bank Tejarat",
     "bank_name_fa": "بانک تجارت",
-    "logo_color_svg": "logos/color/tejarat.svg",
-    "logo_color_png": "logos/color/tejarat.png",
-    "logo_mono_svg": "logos/mono/tejarat.svg",
-    "logo_mono_png": "logos/mono/tejarat.png",
     "BINs": [
       "627353",
       "585983"
     ]
   },
   {
+    "id": "bankGardeshgari",
     "bank_name_en": "Bank Gardeshgari",
     "bank_name_fa": "بانک گردشگری",
-    "logo_color_svg": "logos/color/gardeshgari.svg",
-    "logo_color_png": "logos/color/gardeshgari.png",
-    "logo_mono_svg": "logos/mono/gardeshgari.svg",
-    "logo_mono_png": "logos/mono/gardeshgari.png",
     "BINs": [
       "505416"
     ]
   },
   {
+    "id": "bankKeshavarzi",
     "bank_name_en": "Bank Keshavarzi",
     "bank_name_fa": "بانک کشاورزی",
-    "logo_color_svg": "logos/color/keshavarzi.svg",
-    "logo_color_png": "logos/color/keshavarzi.png",
-    "logo_mono_svg": "logos/mono/keshavarzi.svg",
-    "logo_mono_png": "logos/mono/keshavarzi.png",
     "BINs": [
       "603770",
       "639217"
     ]
   },
   {
+    "id": "bankMaskan",
     "bank_name_en": "Bank Maskan",
     "bank_name_fa": "بانک مسکن",
-    "logo_color_svg": "logos/color/maskan.svg",
-    "logo_color_png": "logos/color/maskan.png",
-    "logo_mono_svg": "logos/mono/maskan.svg",
-    "logo_mono_png": "logos/mono/maskan.png",
     "BINs": [
       "628023"
     ]
   },
   {
+    "id": "bankMellat",
     "bank_name_en": "Bank Mellat",
     "bank_name_fa": "بانک ملت",
-    "logo_color_svg": "logos/color/mellat.svg",
-    "logo_color_png": "logos/color/mellat.png",
-    "logo_mono_svg": "logos/mono/mellat.svg",
-    "logo_mono_png": "logos/mono/mellat.png",
     "BINs": [
       "610433",
       "991975"
     ]
   },
   {
+    "id": "bankMarkazi",
     "bank_name_en": "Bank Markazi",
     "bank_name_fa": "بانک مرکزی",
-    "logo_color_svg": "logos/color/Bankmarkazi.svg",
-    "logo_color_png": "logos/color/Bankmarkazi.png",
-    "logo_mono_svg": "logos/mono/Bankmarkazi.svg",
-    "logo_mono_png": "logos/mono/Bankmarkazi.png",
     "BINs": [
       "636795"
     ]
   },
   {
+    "id": "bankMehrIran",
     "bank_name_en": "Bank Mehr Iran",
     "bank_name_fa": "بانک قرض‌الحسنه مهر ایران",
-    "logo_color_svg": "logos/color/Mehriran.svg",
-    "logo_color_png": "logos/color/Mehriran.png",
-    "logo_mono_svg": "logos/mono/Mehriran.svg",
-    "logo_mono_png": "logos/mono/Mehriran.png",
     "BINs": [
       "606373"
     ]
   },
   {
+    "id": "postBankIran",
     "bank_name_en": "Post Bank of Iran",
     "bank_name_fa": "بانک پست بانک ایران",
-    "logo_color_svg": "logos/color/post.svg",
-    "logo_color_png": "logos/color/post.png",
-    "logo_mono_svg": "logos/mono/post.svg",
-    "logo_mono_png": "logos/mono/post.png",
     "BINs": [
       "627760"
     ]
   },
   {
+    "id": "etebariTosee",
     "bank_name_en": "Etebari Tosee",
     "bank_name_fa": "مؤسسه اعتباری توسعه",
-    "logo_color_svg": "logos/color/tosee.svg",
-    "logo_color_png": "logos/color/tosee.png",
-    "logo_mono_svg": "logos/mono/tosee.svg",
-    "logo_mono_png": "logos/mono/tosee.png",
     "BINs": [
       "628157"
     ]
   },
   {
+    "id": "bankKosar",
     "bank_name_en": "Bank Kosar",
     "bank_name_fa": "مؤسسه اعتباری کوثر (سپه)",
-    "logo_color_svg": "logos/color/kosar.svg",
-    "logo_color_png": "logos/color/kosar.png",
-    "logo_mono_svg": "logos/mono/kosar.svg",
-    "logo_mono_png": "logos/mono/kosar.png",
     "BINs": [
       "505801"
     ]
   },
   {
+    "id": "melall",
     "bank_name_en": "Melall",
     "bank_name_fa": "مؤسسه ملل",
-    "logo_color_svg": "logos/color/melall.svg",
-    "logo_color_png": "logos/color/melall.png",
-    "logo_mono_svg": "logos/mono/melall.svg",
-    "logo_mono_png": "logos/mono/melall.png",
     "BINs": [
       "606256"
     ]
   },
   {
+    "id": "bankIranZamin",
     "bank_name_en": "Bank Iran Zamin",
     "bank_name_fa": "بانک ایران زمین",
-    "logo_color_svg": "logos/color/iranzamin.svg",
-    "logo_color_png": "logos/color/iranzamin.png",
-    "logo_mono_svg": "logos/mono/iranzamin.svg",
-    "logo_mono_png": "logos/mono/iranzamin.png",
     "BINs": [
       "505785"
     ]
   },
   {
+    "id": "bankMehrEghtesad",
     "bank_name_en": "Bank Mehr Eghtesad",
     "bank_name_fa": "بانک مهر اقتصاد",
-    "logo_color_svg": "logos/color/mehr_eghtesad.svg",
-    "logo_color_png": "logos/color/mehr_eghtesad.png",
-    "logo_mono_svg": "logos/mono/mehr_eghtesad.svg",
-    "logo_mono_png": "logos/mono/mehr_eghtesad.png",
     "BINs": [
       "639370"
     ]
   },
   {
+    "id": "noor",
     "bank_name_en": "Noor",
     "bank_name_fa": "مؤسسه نور",
-    "logo_color_svg": "logos/color/noor.svg",
-    "logo_color_png": "logos/color/noor.png",
-    "logo_mono_svg": "logos/mono/noor.svg",
-    "logo_mono_png": "logos/mono/noor.png",
     "BINs": [
       "507677"
     ]
   },
   {
+    "id": "bluBank",
     "bank_name_en": "Blu Bank",
     "bank_name_fa": "بلو بانک",
-    "logo_color_svg": "logos/color/bluank.svg",
-    "logo_color_png": "logos/color/bluank.png",
-    "logo_mono_svg": "logos/mono/bluank.svg",
-    "logo_mono_png": "logos/mono/bluank.png",
     "BINs": [
       "62198619",
       "62198618"
     ]
   },
   {
+    "id": "vipodPasargad",
     "bank_name_en": "Vipod (Pasargad)",
     "bank_name_fa": "ویپاد بانک پاسارگاد",
-    "logo_color_svg": "logos/color/vipod.svg",
-    "logo_color_png": "logos/color/vipod.png",
-    "logo_mono_svg": "logos/mono/vipod.svg",
-    "logo_mono_png": "logos/mono/vipod.png",
     "BINs": [
       "50222915"
     ]
   },
   {
+    "id": "bankResalat",
     "bank_name_en": "Bank Resalat",
     "bank_name_fa": "بانک قرض الحسنه رسالت",
-    "logo_color_svg": "logos/color/resalat.svg",
-    "logo_color_png": "logos/color/resalat.png",
-    "logo_mono_svg": "logos/mono/resalat.svg",
-    "logo_mono_png": "logos/mono/resalat.png",
     "BINs": [
       "504172"
     ]
   },
   {
+    "id": "bankIranVenezuela",
     "bank_name_en": "Bank Iran-Venezuela",
     "bank_name_fa": "بانک مشترک ایران و ونزئولا",
-    "logo_color_svg": "logos/color/iranvenezuela.svg",
-    "logo_color_png": "logos/color/iranvenezuela.png",
-    "logo_mono_svg": "logos/mono/iranvenezuela.svg",
-    "logo_mono_png": "logos/mono/iranvenezuela.png",
     "BINs": [
       "581874"
     ]
   },
   {
+    "id": "bankKhavarMianeh",
     "bank_name_en": "Bank Khavar mianeh",
     "bank_name_fa": "بانک خاورمیانه",
-    "logo_color_svg": "logos/color/Khavarmianeh.svg",
-    "logo_color_png": "logos/color/Khavarmianeh.png",
-    "logo_mono_svg": "logos/mono/Khavarmianeh.svg",
-    "logo_mono_png": "logos/mono/Khavarmianeh.png",
     "BINs": [
       "585947"
     ]
